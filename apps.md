@@ -8,8 +8,6 @@ windows: '<small>Windows</small>'
 
 macOS ve Windows ortamlarında kullandığım uygulamaları hem kendime not olsun, hem de siz de yeni uygulamalar keşfedebilin diye burada paylaşıyorum. :)
 
-Her iki işletim sisteminde olan uygulamaların yanına platform yazmadım. Link verdim.
-
 [//]: <> ![FileZilla](/images/filezilla.png)
 # [FileZilla](https://filezilla-project.org/download.php)
 # [Visual Studio Code](https://code.visualstudio.com/download)
